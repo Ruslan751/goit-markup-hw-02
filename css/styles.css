@@ -4,10 +4,17 @@ body {
   background-color: #fff;
 }
 
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
 .logo-header-logo {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.17 !important;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
