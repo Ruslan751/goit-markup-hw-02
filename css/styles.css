@@ -15,7 +15,7 @@ a {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17 !important;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.03em !important;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -133,9 +133,4 @@ a {
 }
 .logo-part {
   color: #f4f4fd;
-}
-.logo-header-logo {
-  line-height: 1.5;
-  color: #f4f4fd;
-  letter-spacing: 0.02em;
 }
