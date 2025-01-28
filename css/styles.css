@@ -37,8 +37,11 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.logo-header-link:hover,
-.logo-header-link:focus {
+.nav-item:first-child .logo-header-link:hover {
+  color: #404bbf;
+}
+
+.nav-item:first-child .logo-header-link:focus {
   color: #404bbf;
 }
 
