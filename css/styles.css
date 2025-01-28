@@ -56,8 +56,8 @@ a {
 .logo-header-link-contacts {
   color: #434455;
 }
-.contacts:hover,
-.contacts:focus {
+.logo-header-link-contacts:hover,
+.logo-header-link-contacts:focus {
   color: #404bbf;
 }
 .order-service {
