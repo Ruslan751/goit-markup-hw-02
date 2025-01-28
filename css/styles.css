@@ -1,3 +1,6 @@
+:root {
+  --main-color: #f4f4fd;
+}
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -22,7 +25,7 @@ a {
 }
 
 .logo-part {
-  color: #f4f4fd;
+  color: var(--main-color);
 }
 
 .nav-item {
