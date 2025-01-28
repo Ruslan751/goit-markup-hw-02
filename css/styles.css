@@ -12,6 +12,7 @@ a {
 }
 
 .logo-header-logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17 !important;
@@ -94,7 +95,7 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.description-list-item {
+.nav-item {
   background-color: #ffffff;
 }
 .sub-title {
