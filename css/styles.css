@@ -22,7 +22,7 @@ a {
 }
 
 .logo-part {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .nav-item {
@@ -106,7 +106,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #434455 !important;
 }
 
 .team-title {
@@ -126,7 +126,7 @@ a {
   letter-spacing: 0.02em;
 }
 
-.our-portfolio {
+.sub-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
