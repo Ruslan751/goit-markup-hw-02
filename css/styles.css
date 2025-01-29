@@ -53,11 +53,11 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.logo-header-link-contacts {
+.logo-header-link {
   color: #434455;
 }
-.logo-header-link-contacts:hover,
-.logo-header-link-contacts:focus {
+.logo-header-link:hover,
+.logo-header-link:focus {
   color: #404bbf;
 }
 .order-service {
