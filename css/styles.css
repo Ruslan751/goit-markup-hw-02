@@ -39,11 +39,11 @@ a {
 }
 
 .nav-item:first-child .logo-header-link:hover {
-  color: #404bbf;
+  color: #404bbf !important;
 }
 
 .nav-item:first-child .logo-header-link:focus {
-  color: #404bbf;
+  color: #404bbf !important;
 }
 
 .contacts {
