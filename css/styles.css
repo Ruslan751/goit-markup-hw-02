@@ -142,6 +142,9 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.page-footer {
+  background-color: #2e2f42;
+}
 .description-text-footer {
   color: var(--main-color);
   line-height: 1.5;
